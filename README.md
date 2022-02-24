@@ -15,7 +15,7 @@
 
 ##API DOC##
 
-<h2><a href="https://openweathermap.org/current">OpenWeather</a><h2>
+<h2><a href="https://openweathermap.org/current">OpenWeather</a></h2>
 
 ##EXPRESS CONFIG##
 
